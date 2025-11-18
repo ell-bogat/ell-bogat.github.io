@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Ell Bogat's Homepage
 description: Projects and things!
+remote_theme: mmistakes/minimal-mistakes
