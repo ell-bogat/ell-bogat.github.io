@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Ellis X. Bogat"
-  avatar           : /assets/images/headshot_2025.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/headshot_2024.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate at the University of Maryland, College Park."
   location         : "College Park, MD, USA"
   email            : "ebogat *at* umd.edu"
